@@ -1,0 +1,142 @@
+body{
+    background-color: grey;
+}
+#firstbox{
+    width: 500px;
+    border: 7px solid red;
+    border-radius: 20px;
+    text-align: center;
+    margin: 0 auto;
+    font-style: italic;
+    color: brown;
+    box-shadow: 10px 10px purple;
+    text-shadow: 2px 2px brown;
+}
+#mainbox{
+    width: 1250px;
+    border: 7px solid green;
+    position: static;
+}
+.onebox{
+    width: 300px;
+    height: 220px;
+    border: 5px solid red;
+    border-radius: 20px;
+    text-align: center;
+    background-color: white;
+    color: darkblue;
+    font-size: larger;
+    text-shadow: 2px 1px darkblue;
+    box-shadow: 10px 10px purple;
+}
+img{
+    width: 150px;
+    height: 120px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+.twobox{
+    width: 300px;
+    height: 220px;
+    border: 5px solid red;
+    border-radius: 20px;
+    text-align: center;
+    background-color: white;
+    color: darkblue;
+    font-size: larger;
+    text-shadow: 2px 1px darkblue;
+    box-shadow: 10px 10px purple;
+    position: relative;
+    left: 850px;
+    bottom: 243px;
+}
+.threebox{
+    width: 300px;
+    height: 220px;
+    border: 5px solid red;
+    border-radius: 20px;
+    text-align: center;
+    background-color: white;
+    color: darkblue;
+    font-size: larger;
+    text-shadow: 2px 1px darkblue;
+    box-shadow: 10px 10px purple;
+    position: relative;
+    top: 260px;
+   
+}
+.fourthbox{
+    width: 300px;
+    height: 220px;
+    border: 5px solid red;
+    border-radius: 20px;
+    text-align: center;
+    background-color: white;
+    color: darkblue;
+    font-size: larger;
+    text-shadow: 2px 1px darkblue;
+    box-shadow: 10px 10px purple;
+    position: relative;
+    left: 850px;
+    margin-bottom: 30px;
+}
+.subbox5{
+    border: 5px solid red;
+    border-radius: 20px;
+    width: 470px;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    background-color: lightgreen;
+    color: red;
+    text-shadow: 2px 1px red;
+    box-shadow: 10px 10px purple;
+    margin: 0 auto;
+    position: fixed;
+    left: 30vw;
+    top: 36vw;
+   
+   
+}
+.minbox1{
+    font-size:xx-large;
+    text-align: center;
+}
+.minbox2{
+    font-size: x-large;
+    padding-top: 5px;
+}
+#footer{
+    width: 800px;
+    background-color: darkgreen;
+    border: 8px solid purple;
+    margin: 0 auto;
+}
+.head{
+    color: black;
+    text-align: center;
+}
+.box1{
+    width: 390px;
+    text-align: center;
+    background-color: khaki;
+    color: black;
+    float: left;
+}
+.box2{
+    width: 390px;
+    text-align: center;
+    background-color: khaki;
+    color: black;
+    float: right;
+}
+.box3{
+    text-align: center;
+    background-color: khaki;
+    color: black;
+    margin-top: 220px;
+}
+.submit{
+    color: black;
+    background-color: red;
+}
